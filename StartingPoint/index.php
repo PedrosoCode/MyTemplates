@@ -13,6 +13,9 @@
 
   <h1>Hello, world!</h1>
   <p class="texto-colorido">Este é um texto para testar a cor.</p>
+  <?php
+  include_once 'components/MainFooter.php';
+  ?>
 
 </body>
 
